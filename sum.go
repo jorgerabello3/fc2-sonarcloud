@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// just testing
 func main() {
 	fmt.Println(sum(10, 5))
 }
